@@ -19,6 +19,7 @@
             android:scaleType="centerCrop"
             android:transitionName="tImage" />
 
+        <!-- Used for the ripple effect on touch -->
         <LinearLayout
             android:id="@+id/mainHolder"
             android:layout_width="match_parent"
