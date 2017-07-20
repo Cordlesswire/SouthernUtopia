@@ -22,7 +22,7 @@
       android:background="@color/background">
 
       <EditText
-        android:id="@+id/etTodo"
+        android:id="@+id/etReviews"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
